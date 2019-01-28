@@ -1,0 +1,2443 @@
+{
+	"target": {
+		"_id": {
+			"$oid": "56f18b25fc13ae3b0e00048b"
+		},
+		"tags": [{
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e00048c"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "solicitor",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e00048d"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "art",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e00048e"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "opera",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e00048f"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "interpreter",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e000490"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "reprography",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e000491"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "stadiums",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e000492"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "accomodation",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e000493"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18b25fc13ae3b0e000494"
+			}
+		}]
+	},
+	"usersInRange": [{
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0002f6"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "architect",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002f7"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "police",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002f8"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002f9"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002fa"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "shopping",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002fb"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "stadiums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002fc"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "spirits",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002fd"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0002fe"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0002ff"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "gardens",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000300"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "flea markets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000301"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000302"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "ballet",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000303"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000304"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000305"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "hospital",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000306"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "restaurants",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000307"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "advertiser",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000308"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000309"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "pubs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00030a"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "fire department",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00030b"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "residence",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00030c"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "accomodation",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00030d"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00030e"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "pub-crawling",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00030f"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "beer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000310"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "advertiser",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000311"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "civil engineer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000312"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "embassy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000313"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "solicitor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000314"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000315"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "singing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000316"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "playing fields",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000317"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "electrician",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000318"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "subway",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000319"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "spirits",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031a"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "stadiums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031b"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "dentist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031c"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "tours",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031d"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "architect",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031e"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "interpreter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00031f"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000320"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "bartender",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000321"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000322"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "souvenirs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000323"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "concerts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000324"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "accomodation",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000325"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000326"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "finance",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000327"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "car rental",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000328"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000329"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "translation",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032a"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "books",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032b"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bank",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032c"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "museums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032d"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "singing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032e"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "playing fields",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00032f"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "accomodation",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000330"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "advertiser",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000331"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "hospital",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000332"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000333"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "bus",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000334"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "job center",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000335"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bank",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000336"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "programmer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000337"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000338"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000339"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00033a"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "cooking",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00033b"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gourmet food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00033c"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00033d"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "drawing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00033e"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "restaurants",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00033f"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000340"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "tradicional stores",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000341"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "local council",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000342"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000343"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000344"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "jogging",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000345"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "language institute",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000346"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "jogging",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000347"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "groceries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000348"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "painting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000349"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "hospital",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00034a"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00034b"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "dancing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00034c"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "local council",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00034d"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "taxi",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00034e"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "flea markets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00034f"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "bicycles",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000350"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "library",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000351"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "airport",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000352"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000353"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "fire department",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000354"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "soccer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000355"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000356"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "architect",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000357"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "flea markets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000358"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "nurse",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000359"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "nurse",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00035a"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "theatres",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00035b"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00035c"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00035d"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00035e"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00035f"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "fire department",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000360"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000361"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000362"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "designer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000363"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bank",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000364"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000365"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "barbershop",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000366"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "gardens",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000367"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000368"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000369"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "designer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00036a"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "art galleries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00036b"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "bicycles",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00036c"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "bicycles",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00036d"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00036e"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00036f"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "wine",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000370"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "civil engineer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000371"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "reprography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000372"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "embassy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000373"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "university",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000374"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bank",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000375"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000376"
+		},
+		"tags": [{
+			"category": "Shopping",
+			"tag": "souvenirs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000377"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "university",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000378"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "hairdresser",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000379"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "nurse",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00037a"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00037b"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00037c"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "cinema",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00037d"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "street food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00037e"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00037f"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "books",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000380"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000381"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000382"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000383"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "music",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000384"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "airport",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000385"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "art",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000386"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000387"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "hairdresser",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000388"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "wine",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000389"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "mechanical engineer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00038a"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "audiovisual specialist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00038b"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "tickets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00038c"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "school",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00038d"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "local council",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00038e"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00038f"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "pubs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000390"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000391"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "hotels",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000392"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "art galleries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000393"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000394"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000395"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000396"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "local council",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000397"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000398"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000399"
+		},
+		"tags": [{
+			"category": "Outdoor Venues",
+			"tag": "outdoor sports",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039a"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "spirits",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039b"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "doctor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039c"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "university",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039d"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "art galleries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039e"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "solicitor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00039f"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a0"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a1"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a2"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003a3"
+		},
+		"tags": [{
+			"category": "Shopping",
+			"tag": "souvenirs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a4"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "concerts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a5"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "painting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a6"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "clothes",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a7"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "embassy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a8"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "journalist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003a9"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "programmer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003aa"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003ab"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "cinema",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ac"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ad"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "pubs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ae"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "bartender",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003af"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "writing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b0"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "civil engineer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b1"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bank",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b2"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "tickets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b3"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b4"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003b5"
+		},
+		"tags": [{
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b6"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "collecting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b7"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "library",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b8"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "fast-food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003b9"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "programmer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ba"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "accountant",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003bb"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "movies",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003bc"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "gym",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003bd"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003be"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "doctor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003bf"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "mechanical engineer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c0"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "film",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c1"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "architect",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c2"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "taxi",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c3"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "barbershop",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c4"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003c5"
+		},
+		"tags": [{
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c6"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gastronomy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c7"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gourmet food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c8"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "police",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003c9"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "programmer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ca"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "music",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003cb"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sightseeing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003cc"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003cd"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "sport events",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ce"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "collecting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003cf"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d0"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "interpreter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d1"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "sport events",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d2"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "music",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d3"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "spirits",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d4"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "tours",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d5"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "shopping",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d6"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003d7"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "clubs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d8"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "hospital",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003d9"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "street food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003da"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "airport",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003db"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003dc"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003dd"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "taxi",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003de"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "wine",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003df"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "language institute",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e0"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gourmet food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e1"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "nurse",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e2"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "police",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e3"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "jogging",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e4"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "subway",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e5"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "traditional food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e6"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003e7"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "hospital",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e8"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "soccer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003e9"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ea"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "taxi driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003eb"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ec"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "tours",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ed"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "terraces",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ee"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "painting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ef"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "street food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f0"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "pub-crawling",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f1"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003f2"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "waiter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f3"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "reading",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f4"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "souvenirs",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f5"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "taxi driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f6"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sightseeing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f7"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "travelling",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f8"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "restaurants",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003f9"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "tickets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003fa"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e0003fb"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "library",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003fc"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "accomodation",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003fd"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "music",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003fe"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "playing fields",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e0003ff"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "bicycles",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000400"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "sport events",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000401"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "audiovisual specialist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000402"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "sport events",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000403"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000404"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "real-estate",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000405"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000406"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gastronomy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000407"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "nurse",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000408"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "art galleries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000409"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "audiovisual specialist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00040a"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "waiter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00040b"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "photography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00040c"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00040d"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "real-estate",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00040e"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "restaurants",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00040f"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "travelling",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000410"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "photography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000411"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "language institute",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000412"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "airport",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000413"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "flea markets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000414"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "restaurants",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000415"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000416"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "school",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000417"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "reprography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000418"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "wine",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000419"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "job center",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00041a"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "wine",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00041b"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "tradicional stores",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00041c"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "private driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00041d"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "tours",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00041e"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00041f"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000420"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "dock",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000421"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "market",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000422"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "architect",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000423"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "footwear",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000424"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "enology",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000425"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "waiter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000426"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "waiter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000427"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "enology",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000428"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000429"
+		},
+		"tags": [{
+			"category": "Food \u0026 Drinks",
+			"tag": "gastronomy",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00042a"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "painting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00042b"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "fire department",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00042c"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00042d"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "maid",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00042e"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "audiovisual specialist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00042f"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000430"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "playing sports",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000431"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "supermarket",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000432"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "gardens",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000433"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sightseeing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000434"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000435"
+		},
+		"tags": [{
+			"category": "Food \u0026 Drinks",
+			"tag": "fast-food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000436"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "lawyer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000437"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000438"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000439"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "university",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00043a"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "gourmet food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00043b"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00043c"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "taxi driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00043d"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "clothes",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00043e"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00043f"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "ballet",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000440"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "tourist guide",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000441"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000442"
+		},
+		"tags": [{
+			"category": "Outdoor Venues",
+			"tag": "sightseeing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000443"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "street food",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000444"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "bus",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000445"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "singing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000446"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "drawing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000447"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "subway",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000448"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000449"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "pub-crawling",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044a"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044b"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044c"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044d"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "doctor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044e"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "translator",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00044f"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "opera",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000450"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "photography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000451"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000452"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "singing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000453"
+			}
+		}, {
+			"category": "Shopping",
+			"tag": "footwear",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000454"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "reading",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000455"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000456"
+		},
+		"tags": [{
+			"category": "Arts \u0026 Culture",
+			"tag": "art galleries",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000457"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "street festival",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000458"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "photography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000459"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "car rental",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00045a"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "job center",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00045b"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00045c"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "playing sports",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00045d"
+			}
+		}, {
+			"category": "Food \u0026 Drinks",
+			"tag": "desserts",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00045e"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00045f"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "cooking",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000460"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000461"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "sea",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000462"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000463"
+		},
+		"tags": [{
+			"category": "Public Services",
+			"tag": "real-estate",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000464"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "veterinarian",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000465"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "museums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000466"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000467"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "carpenter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000468"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "monuments",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000469"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "judge",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00046a"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00046b"
+		},
+		"tags": [{
+			"category": "Hobbies \u0026 Interests",
+			"tag": "dancing",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00046c"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "outdoor sports",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00046d"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "museums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00046e"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "car rental",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00046f"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "tickets",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000470"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "driver",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000471"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000472"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "soccer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000473"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "jogging",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000474"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000475"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "waiter",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000476"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "museums",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000477"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "beach",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000478"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "gym",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000479"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "job center",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00047a"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "playing sports",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00047b"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "audiovisual specialist",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00047c"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e00047d"
+		},
+		"tags": [{
+			"category": "Outdoor Venues",
+			"tag": "bicycles",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00047e"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "doctor",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00047f"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "photographer",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000480"
+			}
+		}, {
+			"category": "Public Services",
+			"tag": "job center",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000481"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000482"
+			}
+		}, {
+			"category": "Outdoor Venues",
+			"tag": "terraces",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000483"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "photography",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000484"
+			}
+		}]
+	}, {
+		"_id": {
+			"$oid": "56f18af1fc13ae3b0e000485"
+		},
+		"tags": [{
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000486"
+			}
+		}, {
+			"category": "Jobs",
+			"tag": "teacher",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000487"
+			}
+		}, {
+			"category": "Arts \u0026 Culture",
+			"tag": "theatres",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000488"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "reading",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e000489"
+			}
+		}, {
+			"category": "Hobbies \u0026 Interests",
+			"tag": "painting",
+			"_id": {
+				"$oid": "56f18af1fc13ae3b0e00048a"
+			}
+		}]
+	}]
+}
